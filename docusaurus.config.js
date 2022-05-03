@@ -6,13 +6,13 @@ const build = require('./content/build/docusaurus.config');
 module.exports = {
   title: 'IOTA Wiki',
   tagline: 'The complete reference for IOTA',
-  url: 'https://wiki.iota.org',
-  baseUrl: '/',
+  url: 'https://abhilashjp.github.io',
+  baseUrl: '/iota-wiki',
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'log',
   favicon: 'img/favicon.ico',
   trailingSlash: false,
-  organizationName: 'iota-community', // Usually your GitHub org/user name.
+  organizationName: 'abhilashjp', // Usually your GitHub org/user name.
   projectName: 'iota-wiki', // Usually your repo name.
   stylesheets: [
     'https://fonts.googleapis.com/css?family=Material+Icons',
