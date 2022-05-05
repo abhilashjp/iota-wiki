@@ -35,8 +35,8 @@ module.exports = {
     },
     image: 'img/iota-wiki.png',
     algolia: {
-       appId: 'YTLE56KAO4',
-       apiKey: '75358d60d302f7f93f630d63128abb03',
+       appId: '9O9AQJSMM1',
+       apiKey: '14d8f429fe8e67dbaa0893c69ac80994',
        indexName: 'iota',
        contextualSearch: true,
     },
