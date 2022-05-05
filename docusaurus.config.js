@@ -44,9 +44,9 @@ module.exports = {
       matomoUrl: 'https://matomo.antonionardella.it/',
       siteId: '6',
     },
-    hotjar: {
-      applicationId: '',
-    },
+    // hotjar: {
+      // applicationId: '',
+   // },
     imageZoom: {
       selector:
         '.markdown :not(a) > img:not(.image-gallery-image):not(.image-gallery-thumbnail-image)',
