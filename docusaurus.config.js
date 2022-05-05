@@ -35,10 +35,10 @@ module.exports = {
     },
     image: 'img/iota-wiki.png',
     algolia: {
-      // appId: 'YTLE56KAO4',
-      // apiKey: '75358d60d302f7f93f630d63128abb03',
-      // indexName: 'iota',
-      // contextualSearch: true,
+       appId: 'YTLE56KAO4',
+       apiKey: '75358d60d302f7f93f630d63128abb03',
+       indexName: 'iota',
+       contextualSearch: true,
     },
     matomo: {
       matomoUrl: 'https://matomo.antonionardella.it/',
