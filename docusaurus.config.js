@@ -4,8 +4,8 @@ const build = require('./content/build/docusaurus.config');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'IOTA Wiki',
-  tagline: 'The complete reference for IOTA',
+  title: 'Lookup tax ',
+  tagline: 'Global APIs for VAT ID validation',
   url: 'https://abhilashjp.github.io',
   baseUrl: '/',
   onBrokenLinks: 'log',
@@ -35,8 +35,8 @@ module.exports = {
     },
     image: 'img/iota-wiki.png',
     algolia: {
-      appId: 'YTLE56KAO4',
-      apiKey: '75358d60d302f7f93f630d63128abb03',
+      appId: '',
+      apiKey: '',
       indexName: 'iota',
       contextualSearch: true,
     },
@@ -45,7 +45,7 @@ module.exports = {
       siteId: '6',
     },
     hotjar: {
-      applicationId: '2809821',
+      applicationId: '',
     },
     imageZoom: {
       selector:
@@ -64,21 +64,21 @@ module.exports = {
     },
     cards: [
       {
-        title: 'Learn',
+        title: 'Explore',
         image: 'img/learn.svg',
         link: 'learn/about-iota/an-introduction-to-iota',
         description:
           'Learn about IOTA, the Tangle, its features, industry applications, network and more.',
       },
       {
-        title: 'Participate',
+        title: 'Integrate',
         image: 'img/participate.svg',
         link: 'participate/support-the-network/about-nodes',
         description:
           'Join the network and start using solutions built on top of the Tangle.',
       },
       {
-        title: 'Build',
+        title: 'Go live',
         image: 'img/build.svg',
         link: 'build/welcome',
         description:
