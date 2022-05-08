@@ -72,14 +72,14 @@ module.exports = {
       },
       {
         title: 'Integrate',
-        image: 'img/participate.svg',
+        image: 'img/code-6127616.svg',
         link: 'participate/support-the-network/about-nodes',
         description:
           'Join the network and start using solutions built on top of the Tangle.',
       },
       {
         title: 'Go live',
-        image: 'img/build.svg',
+        image: 'img/laptop-2298286.svg',
         link: 'build/welcome',
         description:
           'Access documentation and guides to build with IOTA in Rust and other languages.',
