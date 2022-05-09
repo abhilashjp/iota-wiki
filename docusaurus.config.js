@@ -411,7 +411,7 @@ module.exports = {
       },
     ],
     colorMode: {
-      defaultMode: 'dark',
+      defaultMode: 'light',
     },
   },
   presets: [
